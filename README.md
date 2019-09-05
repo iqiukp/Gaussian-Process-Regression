@@ -4,7 +4,7 @@
 ## Description
 + This code is based on the GPML toolbox V4.2.
 + Provided two demos (multiple input single output & multiple input multiple output).
-+ Use ***feval(@ function name)*** to see the number of hyperarguments in a function. For example:
++ Use ***feval(@ function name)*** to see the number of hyperparameters in a function. For example:
 ```
 K > > feval (@ covRQiso)
 Ans =
